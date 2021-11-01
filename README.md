@@ -84,6 +84,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=teamup" />
 </a>
 
+<a href="https://github.com/Ibtid/Your-place-react">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=Your-place-react" />
+</a>
+
 <Br>
  
 
