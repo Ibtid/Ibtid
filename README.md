@@ -1,13 +1,27 @@
-### Hi there 👋
+<h2>I am <b>Ibtid Rahman<b></h2>
+<h6>Software Engineering Student at Islamic University of Technology(IUT)</h6>
 
+###ibtidrahman@iut-dhaka.edu
 
-Here is a gist about me:
+<img align='right' src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116" width="250"> 
+    
+### Little more about me..
+```javascript
+const me = {
+    interestAbout: ["web dev", "learning new", "teaching", "social activity"],
+    code: ["Javascript", "Java", "C++","C","Typescript"],
+    technologies: {
+       web
+         backEnd: {
+            js: ["node", "express"],
+        },
+        frontEnd: {
+            js: ["React"],
+            css: ["materialize", "semantic", "bootstrap"]
+        },
+        database: ["mongo", "MySql", "firebase"],
+    },
+};
+```
 
-- 🔭 I’m currently working on ... MERN
-- 🌱 I’m currently learning ... MERN
-- 👯 I’m looking to collaborate on ... MERN
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Message me](ibtid@gmail.com)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am half finish
+<img src="https://github-readme-stats.vercel.app/api?username=Ibtid&count_private=true"/>
