@@ -75,7 +75,7 @@
 <br>
 <br>
 
-<h1>Some of my Projects! 🎨</h1>
+<h5>Some of my Projects! 🎨</h5>
 <Br>
   
 <a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
