@@ -4,6 +4,10 @@
   <h1 align="center"><b>Hello there, I'm Ibtid Rahman👋</b></h1>
 </p>
 
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+</p>
+
 <p>
   <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
 </p>
