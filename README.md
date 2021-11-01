@@ -67,8 +67,7 @@
 <br>
 <br>
 
-## Some of my Projects! 🎨 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> <iframe src="https://giphy.com/embed/WV9R2niZMMbcE5a9um" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/motion-icon-folder-WV9R2niZMMbcE5a9um">via GIPHY</a></p>
-  
+## Some of my Projects! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 <a href="https://github.com/Ibtid/Horek-Rokom">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=Horek-Rokom" />
