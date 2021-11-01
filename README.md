@@ -75,18 +75,18 @@
 ## Some of my Projects! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 <a href="https://github.com/Ibtid/Horek-Rokom">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" marginBottom="1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=Horek-Rokom" />
+  <img align="center" margin="1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=Horek-Rokom" />
 </a>  
 
 
 <a href="https://github.com/Ibtid/teamup">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" marginBottom="1rem" marginRight="1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=teamup" />
+  <img align="center" margin="1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=teamup" />
 </a>
 
 <a href="https://github.com/Ibtid/Your-place-react">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" marginBottom="1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=Your-place-react" />
+  <img align="center" margin="1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=Your-place-react" />
 </a>
 
 <Br>
