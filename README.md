@@ -90,29 +90,7 @@
 <Br>
 
 
-
-## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-
-<a href="https://github.com/Ibtid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtid&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=400" height="400px"/>
-</a>
-  
-<a href="https://github.com/Ibtid">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibtid&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Ibtid's github stats" height="220px" />
- </a> 
-
-<br/>
- <br/>
- 
-<p align="center">
-    NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
-</p>
- 
- 
- 
- 
- 
- ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffffff)
@@ -125,6 +103,28 @@
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffffff) 
+ 
+
+## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+
+<a href="https://github.com/Ibtid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtid&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=400" height="400px"/>
+</a>
+  
+<a href="https://github.com/Ibtid">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibtid&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Ibtid's github stats" height="220px" />
+ </a> 
+
+<br/>
+<br/>
+ 
+<p align="center">
+    NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+</p>
+ 
+ 
+ 
+ 
 
 
