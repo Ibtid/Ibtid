@@ -93,7 +93,9 @@
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ibtid&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ibtid's Github Stats" width="60%">
+<a href="https://github.com/Ibtid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtid&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=400" height="400px"/>
+</a>
   
 <a href="https://github.com/Ibtid">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibtid&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Ibtid's github stats" height="220px" />
