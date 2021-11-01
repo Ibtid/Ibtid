@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/sameer1604" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Ibtid" />
 </p>
 
 <p align="center">
