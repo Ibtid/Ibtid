@@ -91,11 +91,12 @@
 
 
 
-### Github Stats
+## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ibtid&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ibtid's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtid&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Ibtid's Top Languages">
+<a href="https://github.com/Ibtid">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibtid&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Ibtid's github stats" height="220px" />
 
 <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
@@ -120,10 +121,4 @@
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffffff)
 
-## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-<a href="https://github.com/Ibtid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtid&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=400" height="400px"/>
-</a>
-<a href="https://github.com/Ibtid">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibtid&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Ibtid's github stats" height="220px" />
-</a>
+
