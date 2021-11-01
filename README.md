@@ -25,3 +25,6 @@ const me = {
 ```
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ibtid&count_private=true"/>
+    
+<img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtid&theme=dark") 
+
