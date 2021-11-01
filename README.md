@@ -64,9 +64,6 @@
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffffff) 
-
-<br>
-<br>
 <br>
 <br>
 
