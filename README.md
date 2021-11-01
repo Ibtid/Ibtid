@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... MERN
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email me](ibtid@gmail.com)
+- 📫 How to reach me: ... [Message me](ibtid@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half finish
