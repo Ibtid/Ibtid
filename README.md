@@ -24,4 +24,4 @@ const me = {
 };
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ibtid-Rahman&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ibtid & count_private=true"/>
