@@ -36,7 +36,7 @@
 
 - 👯 I’m looking to collaborate with other Developers :wink:
 
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+- 👨‍💻 All of my projects are available [@Ibtid](github.com/Ibtid)
 
 - 💬 Ask me about anything, I am happy to help :smile:
 
@@ -67,8 +67,7 @@
 <br>
 <br>
 
-### Some of my Projects! 🎨
-<Br>
+## Some of my Projects! 🎨 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
   
 <a href="https://github.com/Ibtid/Horek-Rokom">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
