@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Here is a gist about me:
 
 - 🔭 I’m currently working on ... MERN
 - 🌱 I’m currently learning ... MERN
