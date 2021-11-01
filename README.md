@@ -1,4 +1,4 @@
- <div>[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) </div>
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <p>
   <h1 align="center"><b>Hello there, I'm Ibtid Rahman👋</b></h1>
