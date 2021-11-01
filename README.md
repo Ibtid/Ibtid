@@ -78,13 +78,13 @@
   
 <a href="https://github.com/Ibtid/Horek-Rokom">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=Horek-Rokom&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=Horek-Rokom" />
 </a>  
 
 
 <a href="https://github.com/Ibtid/teamup">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=teamup&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=teamup" />
 </a>
 
 <Br>
