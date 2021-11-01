@@ -27,14 +27,30 @@
 
 ### I am a Full Stack Developer
 <!-- - 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>-->
+
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Android Development.
+
+- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+
+- 👯 I’m looking to collaborate on **Spring Framework**
+
+- 🤝 I’m looking for help with **Backend Design**
+
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
+
+- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+
 - 💬 Ask me about anything, I am happy to help :smile:
+
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+
+- 💬 Ask me about **System Designs and Philosophy 😆**
+
+- ⚡ Fun fact **Coding is a passion and not profession.**
+
+- 🥅 2021 Goals: **Contribute to Open Source projects**
+
+- 🧗 I try to: **Go beyond and push the bounds**
 
 <br>
 
