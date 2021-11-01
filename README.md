@@ -1,4 +1,3 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h1 align="center"><b>Hello there, I'm Ibtid Rahman👋</b></h1>
 </p>
@@ -25,7 +24,7 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 ### I am a Full Stack Developer
-/*- 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>*/
+- 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
