@@ -99,6 +99,7 @@
   
 <a href="https://github.com/Ibtid">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibtid&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Ibtid's github stats" height="220px" />
+ </a> 
 
 <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
