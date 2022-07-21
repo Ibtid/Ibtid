@@ -57,8 +57,8 @@
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Nestjs-informational?style=flat&logo=Nest.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Nestjs-informational?style=flat&logo=nest.js&logoColor=white&color=2bbc8a)
 
 ## 🔧 Databases
 
