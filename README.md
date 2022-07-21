@@ -24,27 +24,23 @@
 ### I am a Full Stack Developer
 <!-- - 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>-->
 
-- 🔭 I’m currently working on my Portfolio Website :grin:
+-  I’m currently working on my Portfolio Website 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:20rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+-  I’m currently learning **To be Extroverted** <img align="right" style="width:20rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m looking to collaborate on **Spring Framework**
 
-- 🤝 I’m looking for help with **Backend Design**
+-  I’m looking to collaborate with other Developers 
 
-- 👯 I’m looking to collaborate with other Developers :wink:
+-  All of my projects are available [@Ibtid](github.com/Ibtid)
 
-- 👨‍💻 All of my projects are available [@Ibtid](github.com/Ibtid)
+-  Ask me about anything, I am happy to help 
 
-- 💬 Ask me about anything, I am happy to help :smile:
+-  How to reach me: [Let's get in touch!][linkedin]
 
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+-  Fun fact **Coding is a passion and not profession.**
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
+-  2022 Goals: **Contribute to Open Source projects**
 
-- 🥅 2021 Goals: **Contribute to Open Source projects**
-
-- 🧗 I try to: **Go beyond and push the bounds**
 
 <br>
 
@@ -53,14 +49,15 @@
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffbf00)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffbf00)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffbf00)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=ffbf00)
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffbf00)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=ffbf00)
 
 ## 🔧 FrameWorks
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 
 ## 🔧 Databases
 
