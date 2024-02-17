@@ -87,23 +87,6 @@
 
 <Br>
  
-
-## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-
-<a href="https://github.com/Ibtid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtid&show_icons=true&theme=dark&langs_count=4&count_private=true&card_width=280" height="220px"/>
-</a>
-  
-<a href="https://github.com/Ibtid">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibtid&count_private=true&show_icons=true&theme=dark&line_height=27"  alt="Ibtid's github stats" height="220px" />
-</a> 
-
-<br/>
-<br/>
- 
-<p align="center">
-    NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
-</p>
  
  
  
