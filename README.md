@@ -21,7 +21,7 @@
 
 <br>
 
-### I am a Full Stack Developer
+### I am a Software Engineer
 <!-- - 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>-->
 
 -  I’m currently working on my Portfolio Website 
